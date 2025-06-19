@@ -7,6 +7,16 @@ header img {
  border-radius: 50%;
 }
 /* Aquí cada alumno puede agregar los estilos de su sección */
+/*<<<<<<< HEAD*/
+#contacto { 
+ padding: 20px; 
+ background-color: #eee; 
+} 
+#contacto input, #contacto textarea { 
+ width: 100%; 
+ margin-bottom: 10px; 
+} 
+/*=======*/
 #proyectos {
   background-color: #f9f9f9;
   padding: 20px;
@@ -24,3 +34,12 @@ header img {
 #proyectos a:hover {
   text-decoration: underline;
 }
+header { 
+text-align: center; 
+background-color: #f0f0f0; 
+padding: 20px; 
+} 
+header img { 
+border-radius: 50%; 
+} 
+/*>>>>>>> 61d40b786a93667eaed377cb89c20a9a87ed54b3
